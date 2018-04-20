@@ -1,3 +1,5 @@
 http://v.baidu.com/v?ct=301989888&rn=20&pn=0&db=0&s=25&ie=utf-8&word=Java%20websocket%20%E8%A7%86%E9%A2%91
 https://blog.csdn.net/qq_35442958/article/details/79188998
 https://github.com/Vimmone/BlackJack
+
+https://www.linuxidc.com/Linux/2016-06/132020.htm  //linux用户和用户管理网站
